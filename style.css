@@ -300,8 +300,8 @@ section{
 }
 
 .home-img img{
-    animation: imgg 2s ease-in-out infinite;
-    animation-delay: 2s;
+    animation: imgg 1s ease-in-out infinite;
+    animation-delay: 1s;
 }
 
 @keyframes imgg{
