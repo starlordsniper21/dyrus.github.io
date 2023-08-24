@@ -1,38 +1,23 @@
 //Nav bar Mobile
 function openMenu() {
-    
-    var open = document.querySelector("ul");
-    
-open.style.right="0%"
-
-};
-
+    var menu = document.querySelector("nav");
+    menu.style.transform = "translateX(0)";
+}
 
 function closeMenu() {
+    var menu = document.querySelector("nav");
+    menu.style.transform = "translateX(-100%)";
+}
 
-    var close = document.querySelector("ul");
-
-       
-    close.style.right="-1000%"
-    
-};
 
 // Contact Function
 
 function openContact() {
-    
-    var open = document.querySelector(".contact");
-    open.style.height="100vh";
-open.style.top="0%";
-
-};
+    var contactSection = document.querySelector(".contact");
+    contactSection.style.transform = "translateY(0)";
+}
 
 function closeContact() {
-
-    var close = document.querySelector(".contact");
-
-    
-    
-close.style.top="-1000%";
-
-};
+    var contactSection = document.querySelector(".contact");
+    contactSection.style.transform = "translateY(-100%)";
+}
