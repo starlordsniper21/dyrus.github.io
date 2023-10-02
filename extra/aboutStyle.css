@@ -19,7 +19,7 @@ body {
 
 
 header {
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9dKgMrXGyd5MjSZU4GTKmAr_IHe81TTkDeUXIAByjNWvFoCfP");
+    background-image:url("https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80");
     height:auto;
     width:100%;
    background-size:cover; background-repeat:no-repeat ;
@@ -381,7 +381,7 @@ header li:hover {
   
   
   footer {
-      background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEAACZj_D95d5_suKP6SXaL3Z2BEJavCnryWOF_eN7q6pOGt3HgZeEyapX");
+      background-image:url("https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80");
       background-size:cover; background-repeat:no-repeat ;
    background-position:center;
     background-color:rgba(0,0,0,0.6);
