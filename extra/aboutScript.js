@@ -1,23 +1,17 @@
-//Nav bar Mobile
+// Navigation bar for mobile
 function openMenu() {
-    var menu = document.querySelector("nav");
-    menu.style.transform = "translateX(0)";
+    document.querySelector("nav").style.transform = "translateX(0)";
 }
 
 function closeMenu() {
-    var menu = document.querySelector("nav");
-    menu.style.transform = "translateX(-100%)";
+    document.querySelector("nav").style.transform = "translateX(-100%)";
 }
 
-
-// Contact Function
-
+// Contact section functions
 function openContact() {
-    var contactSection = document.querySelector(".contact");
-    contactSection.style.transform = "translateY(0)";
+    document.querySelector(".contact").style.transform = "translateY(0)";
 }
 
 function closeContact() {
-    var contactSection = document.querySelector(".contact");
-    contactSection.style.transform = "translateY(-100%)";
+    document.querySelector(".contact").style.transform = "translateY(-100%)";
 }
